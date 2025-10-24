@@ -1,0 +1,98 @@
+MANEJO DE DIABETES TIPO 2
+
+La diabetes tipo 2 es una enfermedad crónica caracterizada por resistencia a la insulina y deficiencia relativa de insulina.
+
+DIAGNÓSTICO:
+- Glucosa en ayunas ≥ 126 mg/dL
+- Glucosa 2h post-carga ≥ 200 mg/dL
+- HbA1c ≥ 6.5%
+- Glucosa casual ≥ 200 mg/dL con síntomas
+
+OBJETIVOS DE CONTROL:
+- HbA1c < 7% (individualizar según paciente)
+- Glucosa en ayunas: 80-130 mg/dL
+- Glucosa postprandial: < 180 mg/dL
+- Presión arterial < 130/80 mmHg
+- LDL colesterol < 100 mg/dL
+
+TRATAMIENTO NO FARMACOLÓGICO:
+1. Educación diabetológica
+2. Plan de alimentación:
+   - Control de carbohidratos
+   - Índice glucémico bajo
+   - Porciones controladas
+   - Evitar azúcares simples
+3. Ejercicio físico:
+   - 150 min/semana de actividad aeróbica
+   - Ejercicios de resistencia 2-3 veces/semana
+4. Control de peso
+5. Cese del tabaquismo
+
+TRATAMIENTO FARMACOLÓGICO:
+Primera línea:
+- Metformina: 500-2000 mg/día
+- Efectos: Reduce gluconeogénesis hepática
+- Contraindicaciones: Insuficiencia renal, acidosis láctica
+
+Segunda línea (si HbA1c > 7%):
+- Sulfonilureas (glibenclamida, glimepirida)
+- Inhibidores DPP-4 (sitagliptina, vildagliptina)
+- Inhibidores SGLT2 (empagliflozina, canagliflozina)
+- Agonistas GLP-1 (liraglutida, semaglutida)
+
+Insulinoterapia:
+- Indicada si HbA1c > 9% o síntomas de hiperglucemia
+- Inicio con insulina basal
+- Ajuste según glucemia
+
+COMPLICACIONES AGUDAS:
+1. Hiperglucemia:
+   - Síntomas: Poliuria, polidipsia, polifagia
+   - Tratamiento: Hidratación, insulina, corrección de electrolitos
+
+2. Cetoacidosis diabética:
+   - Glucosa > 250 mg/dL
+   - Cetonas positivas
+   - pH < 7.3
+   - Tratamiento: Insulina, fluidos, electrolitos
+
+COMPLICACIONES CRÓNICAS:
+1. Microvasculares:
+   - Retinopatía diabética
+   - Nefropatía diabética
+   - Neuropatía diabética
+
+2. Macrovasculares:
+   - Enfermedad cardiovascular
+   - Enfermedad arterial periférica
+   - Accidente cerebrovascular
+
+SEGUIMIENTO:
+- HbA1c cada 3 meses
+- Función renal anual
+- Examen oftalmológico anual
+- Examen de pies cada visita
+- Perfil lipídico anual
+- Presión arterial en cada visita
+
+MONITOREO GLUCÉMICO:
+- Automonitoreo glucémico
+- Objetivo: 4-6 mediciones/día
+- Registro de resultados
+- Ajuste de tratamiento según patrones
+
+EDUCACIÓN DEL PACIENTE:
+- Reconocimiento de síntomas
+- Técnica de inyección de insulina
+- Manejo de hipoglucemia
+- Cuidado de pies
+- Plan de alimentación
+- Actividad física segura
+
+CRITERIOS DE REFERENCIA:
+- Endocrinólogo si:
+  - HbA1c > 9% a pesar de tratamiento
+  - Múltiples hipoglucemias
+  - Complicaciones microvasculares
+  - Embarazo
+  - Enfermedad renal

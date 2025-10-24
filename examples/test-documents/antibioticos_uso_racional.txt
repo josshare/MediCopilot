@@ -1,0 +1,110 @@
+USO RACIONAL DE ANTIBIÓTICOS
+
+El uso racional de antibióticos es fundamental para prevenir la resistencia bacteriana y optimizar el tratamiento de infecciones.
+
+PRINCIPIOS GENERALES:
+1. Confirmar infección bacteriana
+2. Identificar el patógeno cuando sea posible
+3. Seleccionar antibiótico de espectro apropiado
+4. Usar dosis y duración correctas
+5. Considerar farmacocinética y farmacodinamia
+6. Evaluar interacciones medicamentosas
+
+CLASIFICACIÓN POR ESPECTRO:
+Penicilinas:
+- Penicilina G: Gram positivos
+- Ampicilina: Gram positivos y algunos negativos
+- Piperacilina: Espectro extendido
+
+Cefalosporinas:
+- 1ra generación: Gram positivos
+- 2da generación: Gram positivos y algunos negativos
+- 3ra generación: Gram negativos
+- 4ta generación: Espectro amplio
+
+Aminoglucósidos:
+- Gentamicina, tobramicina
+- Gram negativos
+- Sinergia con betalactámicos
+
+Fluoroquinolonas:
+- Ciprofloxacina, levofloxacina
+- Gram negativos y algunos positivos
+- Contraindicadas en niños
+
+Macrólidos:
+- Eritromicina, azitromicina
+- Gram positivos, atípicos
+- Alternativa en alergia a penicilina
+
+INDICACIONES COMUNES:
+Infecciones respiratorias:
+- Neumonía: Amoxicilina-clavulánico
+- Bronquitis: Azitromicina
+- Sinusitis: Amoxicilina
+
+Infecciones urinarias:
+- Cistitis: Nitrofurantoína, fosfomicina
+- Pielonefritis: Ciprofloxacina, ceftriaxona
+
+Infecciones de piel:
+- Celulitis: Cefalexina, clindamicina
+- Abscesos: Drenaje + clindamicina
+
+CONTRAINDICACIONES:
+- Alergia al antibiótico
+- Insuficiencia renal (ajustar dosis)
+- Insuficiencia hepática
+- Embarazo y lactancia
+- Edad pediátrica (algunos antibióticos)
+
+INTERACCIONES IMPORTANTES:
+- Warfarina + ciprofloxacina: Aumenta INR
+- Digoxina + claritromicina: Aumenta niveles
+- Anticonceptivos + rifampicina: Reduce eficacia
+- Metotrexato + penicilinas: Aumenta toxicidad
+
+RESISTENCIA BACTERIANA:
+Factores que contribuyen:
+- Uso excesivo de antibióticos
+- Tratamientos incompletos
+- Dosis subóptimas
+- Uso profiláctico inadecuado
+
+Prevención:
+- Uso solo cuando esté indicado
+- Cultivos antes del tratamiento
+- Dosis y duración apropiadas
+- Educación del paciente
+
+MONITOREO:
+- Respuesta clínica
+- Efectos adversos
+- Función renal y hepática
+- Niveles séricos (aminoglucósidos, vancomicina)
+
+DUración DEL TRATAMIENTO:
+- Infecciones simples: 5-7 días
+- Neumonía: 7-10 días
+- Pielonefritis: 10-14 días
+- Endocarditis: 4-6 semanas
+- Osteomielitis: 4-6 semanas
+
+CRITERIOS DE MEJORÍA:
+- Resolución de síntomas
+- Normalización de signos vitales
+- Mejoría de marcadores inflamatorios
+- Cultivos negativos
+
+CRITERIOS DE CAMBIO:
+- Falta de respuesta a las 48-72 horas
+- Empeoramiento clínico
+- Cultivos con resistencia
+- Efectos adversos intolerables
+
+EDUCACIÓN AL PACIENTE:
+- Importancia de completar el tratamiento
+- No compartir antibióticos
+- Reconocer efectos adversos
+- Cuándo contactar al médico
+- Prevención de infecciones

@@ -1,0 +1,121 @@
+{
+  "medical_queries": [
+    {
+      "category": "medicamentos",
+      "queries": [
+        "¿Cuáles son los efectos secundarios del paracetamol?",
+        "¿Cómo se debe dosificar el ibuprofeno en adultos?",
+        "¿Qué contraindicaciones tiene el paracetamol?",
+        "¿Cuándo no se debe usar ibuprofeno?",
+        "¿Cómo interactúa la warfarina con otros medicamentos?",
+        "¿Cuáles son las dosis pediátricas del paracetamol?",
+        "¿Qué reacciones alérgicas puede causar la penicilina?",
+        "¿Cómo se debe ajustar la dosis de metformina en insuficiencia renal?"
+      ]
+    },
+    {
+      "category": "enfermedades",
+      "queries": [
+        "¿Cuáles son los síntomas de la diabetes tipo 2?",
+        "¿Cómo se diagnostica la hipertensión arterial?",
+        "¿Qué complicaciones puede tener la diabetes?",
+        "¿Cuáles son los factores de riesgo de la hipertensión?",
+        "¿Cómo se clasifica la hipertensión arterial?",
+        "¿Qué es la crisis hipertensiva?",
+        "¿Cuáles son los objetivos de control en diabetes?",
+        "¿Cómo se debe monitorear la presión arterial?"
+      ]
+    },
+    {
+      "category": "protocolos",
+      "queries": [
+        "¿Cuál es el protocolo de manejo de hipertensión?",
+        "¿Cómo se debe tratar una crisis hipertensiva?",
+        "¿Cuál es el protocolo de uso racional de antibióticos?",
+        "¿Cómo se debe manejar la diabetes tipo 2?",
+        "¿Cuáles son las indicaciones para usar antibióticos?",
+        "¿Cómo se debe hacer el seguimiento de un paciente hipertenso?",
+        "¿Cuál es el protocolo de prevención de resistencia bacteriana?",
+        "¿Cómo se debe educar a un paciente diabético?"
+      ]
+    },
+    {
+      "category": "efectos_secundarios",
+      "queries": [
+        "¿Qué efectos secundarios puede tener el ibuprofeno?",
+        "¿Cuándo debo suspender un antibiótico por efectos secundarios?",
+        "¿Qué reacciones alérgicas puede causar el paracetamol?",
+        "¿Cómo se maneja una reacción alérgica a medicamentos?",
+        "¿Qué efectos secundarios tiene la metformina?",
+        "¿Cuándo debo contactar al médico por efectos secundarios?",
+        "¿Qué efectos secundarios puede tener el uso prolongado de ibuprofeno?",
+        "¿Cómo se previenen los efectos secundarios de los medicamentos?"
+      ]
+    },
+    {
+      "category": "interacciones",
+      "queries": [
+        "¿Cómo interactúa el paracetamol con la warfarina?",
+        "¿Qué medicamentos no se pueden tomar con ibuprofeno?",
+        "¿Cómo interactúa la metformina con otros medicamentos?",
+        "¿Qué precauciones debo tener con las interacciones medicamentosas?",
+        "¿Cómo interactúa el alcohol con los medicamentos?",
+        "¿Qué medicamentos pueden aumentar el efecto de la warfarina?",
+        "¿Cómo se debe manejar una interacción medicamentosa?",
+        "¿Qué medicamentos pueden causar hipoglucemia con metformina?"
+      ]
+    }
+  ],
+  "test_scenarios": [
+    {
+      "name": "Consulta básica de medicamento",
+      "query": "¿Cuáles son los efectos secundarios del paracetamol?",
+      "expected_sources": ["paracetamol_efectos_secundarios.txt"],
+      "max_results": 3
+    },
+    {
+      "name": "Consulta sobre dosificación",
+      "query": "¿Cómo se debe dosificar el ibuprofeno en adultos?",
+      "expected_sources": ["ibuprofeno_guia_clinica.txt"],
+      "max_results": 5
+    },
+    {
+      "name": "Consulta sobre protocolo",
+      "query": "¿Cuál es el protocolo de manejo de hipertensión?",
+      "expected_sources": ["protocolo_hipertension.txt"],
+      "max_results": 5
+    },
+    {
+      "name": "Consulta sobre enfermedad",
+      "query": "¿Cuáles son los síntomas de la diabetes tipo 2?",
+      "expected_sources": ["diabetes_tipo2_manejo.txt"],
+      "max_results": 3
+    },
+    {
+      "name": "Consulta sobre antibióticos",
+      "query": "¿Cuándo se debe usar un antibiótico?",
+      "expected_sources": ["antibioticos_uso_racional.txt"],
+      "max_results": 4
+    }
+  ],
+  "performance_tests": [
+    {
+      "name": "Consulta simple",
+      "query": "¿Qué es el paracetamol?",
+      "max_results": 1,
+      "expected_response_time": 5
+    },
+    {
+      "name": "Consulta compleja",
+      "query": "¿Cuáles son las contraindicaciones del ibuprofeno en pacientes con insuficiencia renal y enfermedad cardiovascular?",
+      "max_results": 5,
+      "expected_response_time": 10
+    },
+    {
+      "name": "Consulta con múltiples fuentes",
+      "query": "¿Cómo se debe manejar la hipertensión en pacientes diabéticos?",
+      "max_results": 10,
+      "expected_response_time": 15
+    }
+  ]
+}

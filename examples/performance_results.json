@@ -1,0 +1,25 @@
+{
+  "total_queries": 10,
+  "successful_queries": 10,
+  "failed_queries": 0,
+  "success_rate": 100.0,
+  "response_times": {
+    "min": 0.02988910675048828,
+    "max": 0.11678123474121094,
+    "mean": 0.06591191291809081,
+    "median": 0.05962955951690674,
+    "std_dev": 0.026087015843447074
+  },
+  "answer_lengths": {
+    "min": 91,
+    "max": 91,
+    "mean": 91,
+    "median": 91.0
+  },
+  "sources_counts": {
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0.0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "api_config": {
+    "base_url": "http://localhost:8000",
+    "timeout": 30,
+    "max_retries": 3
+  },
+  "test_config": {
+    "max_results_default": 5,
+    "concurrent_workers": 3,
+    "test_iterations": 3,
+    "delay_between_queries": 0.5
+  },
+  "performance_thresholds": {
+    "excellent_response_time": 5,
+    "good_response_time": 10,
+    "acceptable_response_time": 20,
+    "min_success_rate": 95
+  },
+  "document_types": {
+    "supported_formats": ["pdf", "txt", "docx"],
+    "max_file_size_mb": 50,
+    "chunk_size": 1000,
+    "chunk_overlap": 200
+  },
+  "query_categories": {
+    "medicamentos": {
+      "keywords": ["efectos secundarios", "dosis", "contraindicaciones", "interacciones"],
+      "max_results": 5
+    },
+    "enfermedades": {
+      "keywords": ["síntomas", "diagnóstico", "complicaciones", "tratamiento"],
+      "max_results": 5
+    },
+    "protocolos": {
+      "keywords": ["protocolo", "manejo", "seguimiento", "prevención"],
+      "max_results": 5
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": "medicopilot.log"
+  }
+}

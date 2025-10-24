@@ -1,0 +1,89 @@
+PROTOCOLO DE MANEJO DE HIPERTENSIÓN ARTERIAL
+
+La hipertensión arterial es una condición crónica que requiere manejo integral y seguimiento continuo.
+
+DEFINICIÓN:
+- Presión arterial sistólica ≥ 140 mmHg
+- Presión arterial diastólica ≥ 90 mmHg
+- Mediciones en al menos 2 ocasiones separadas
+
+CLASIFICACIÓN:
+Normal: < 120/80 mmHg
+Elevada: 120-129/< 80 mmHg
+Hipertensión Grado 1: 130-139/80-89 mmHg
+Hipertensión Grado 2: ≥ 140/90 mmHg
+Crisis hipertensiva: > 180/120 mmHg
+
+FACTORES DE RIESGO:
+- Edad avanzada
+- Antecedentes familiares
+- Obesidad
+- Sedentarismo
+- Consumo excesivo de sal
+- Alcohol
+- Tabaquismo
+- Diabetes
+- Enfermedad renal crónica
+
+EVALUACIÓN INICIAL:
+1. Historia clínica completa
+2. Examen físico detallado
+3. Medición correcta de PA
+4. Laboratorios básicos:
+   - Hemograma completo
+   - Química sanguínea
+   - Perfil lipídico
+   - Función renal
+   - Glucosa en ayunas
+   - Electrocardiograma
+
+TRATAMIENTO NO FARMACOLÓGICO:
+- Reducción de peso (5-10% del peso corporal)
+- Dieta DASH (baja en sodio, rica en frutas y verduras)
+- Ejercicio aeróbico regular (150 min/semana)
+- Limitación de alcohol (< 2 bebidas/día en hombres, < 1 en mujeres)
+- Cese del tabaquismo
+- Manejo del estrés
+
+TRATAMIENTO FARMACOLÓGICO:
+Primera línea:
+- Inhibidores de la ECA (enalapril, lisinopril)
+- Bloqueadores del receptor de angiotensina (losartán, valsartán)
+- Diuréticos tiazídicos (hidroclorotiazida)
+- Bloqueadores de canales de calcio (amlodipino)
+
+Segunda línea:
+- Betabloqueadores (metoprolol, atenolol)
+- Alfabloqueadores (doxazosina)
+
+OBJETIVOS DE TRATAMIENTO:
+- < 130/80 mmHg en pacientes < 65 años
+- < 130/80 mmHg en pacientes con diabetes
+- < 130/80 mmHg en pacientes con enfermedad renal crónica
+- < 130/80 mmHg en pacientes con enfermedad cardiovascular
+
+SEGUIMIENTO:
+- Cada 2-4 semanas hasta control
+- Cada 3-6 meses una vez controlado
+- Monitoreo domiciliario de PA
+- Evaluación de adherencia al tratamiento
+
+COMPLICACIONES:
+- Enfermedad cardiovascular
+- Accidente cerebrovascular
+- Enfermedad renal crónica
+- Retinopatía hipertensiva
+- Enfermedad arterial periférica
+
+CRISIS HIPERTENSIVA:
+- PA > 180/120 mmHg
+- Evaluación inmediata de daño orgánico
+- Tratamiento urgente si hay síntomas
+- Reducción gradual de PA (25% en primeras 2 horas)
+
+EDUCACIÓN AL PACIENTE:
+- Importancia del control de PA
+- Técnica correcta de medición
+- Reconocimiento de síntomas de alarma
+- Adherencia al tratamiento
+- Modificaciones del estilo de vida
