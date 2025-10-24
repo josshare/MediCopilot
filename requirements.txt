@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+weaviate-client==3.25.3
+python-dotenv==1.0.0
+python-multipart==0.0.6
+pypdf==3.17.4
+python-docx==1.1.0
+httpx==0.25.2
+sentence-transformers==2.2.2
+pydantic==2.5.0
+
