@@ -57,8 +57,8 @@ class WeaviateClient:
                 },
                 {
                     "name": "metadata",
-                    "dataType": ["object"],
-                    "description": "Additional metadata about the chunk"
+                    "dataType": ["text"],
+                    "description": "Additional metadata about the chunk (JSON string)"
                 }
             ]
         }
