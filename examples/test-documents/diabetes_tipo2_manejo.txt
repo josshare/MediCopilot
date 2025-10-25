@@ -1,62 +1,37 @@
-MANEJO DE DIABETES TIPO 2
+DIABETES TIPO 2: MANEJO INTEGRAL
 
-La diabetes tipo 2 es una enfermedad crónica caracterizada por resistencia a la insulina y deficiencia relativa de insulina.
+DIAGNÓSTICO
+Los criterios diagnósticos para diabetes tipo 2 incluyen:
+- Glucosa plasmática en ayunas ≥ 126 mg/dL (7.0 mmol/L)
+- Glucosa plasmática a las 2 horas ≥ 200 mg/dL (11.1 mmol/L) en prueba de tolerancia oral a la glucosa
+- Hemoglobina glicosilada (HbA1c) ≥ 6.5%
+- Glucosa plasmática aleatoria ≥ 200 mg/dL (11.1 mmol/L) con síntomas clásicos de diabetes
 
-DIAGNÓSTICO:
-- Glucosa en ayunas ≥ 126 mg/dL
-- Glucosa 2h post-carga ≥ 200 mg/dL
-- HbA1c ≥ 6.5%
-- Glucosa casual ≥ 200 mg/dL con síntomas
+SÍNTOMAS CLÁSICOS
+- Poliuria (aumento de la frecuencia urinaria)
+- Polidipsia (sed excesiva)
+- Polifagia (hambre excesiva)
+- Pérdida de peso inexplicable
+- Fatiga y debilidad
+- Visión borrosa
+- Cicatrización lenta de heridas
+- Infecciones recurrentes
 
-OBJETIVOS DE CONTROL:
-- HbA1c < 7% (individualizar según paciente)
-- Glucosa en ayunas: 80-130 mg/dL
-- Glucosa postprandial: < 180 mg/dL
-- Presión arterial < 130/80 mmHg
-- LDL colesterol < 100 mg/dL
-
-TRATAMIENTO NO FARMACOLÓGICO:
-1. Educación diabetológica
-2. Plan de alimentación:
-   - Control de carbohidratos
-   - Índice glucémico bajo
-   - Porciones controladas
-   - Evitar azúcares simples
-3. Ejercicio físico:
-   - 150 min/semana de actividad aeróbica
-   - Ejercicios de resistencia 2-3 veces/semana
-4. Control de peso
-5. Cese del tabaquismo
-
-TRATAMIENTO FARMACOLÓGICO:
-Primera línea:
-- Metformina: 500-2000 mg/día
-- Efectos: Reduce gluconeogénesis hepática
-- Contraindicaciones: Insuficiencia renal, acidosis láctica
-
-Segunda línea (si HbA1c > 7%):
-- Sulfonilureas (glibenclamida, glimepirida)
-- Inhibidores DPP-4 (sitagliptina, vildagliptina)
-- Inhibidores SGLT2 (empagliflozina, canagliflozina)
-- Agonistas GLP-1 (liraglutida, semaglutida)
-
-Insulinoterapia:
-- Indicada si HbA1c > 9% o síntomas de hiperglucemia
-- Inicio con insulina basal
-- Ajuste según glucemia
-
-COMPLICACIONES AGUDAS:
-1. Hiperglucemia:
-   - Síntomas: Poliuria, polidipsia, polifagia
-   - Tratamiento: Hidratación, insulina, corrección de electrolitos
+COMPLICACIONES AGUDAS
+1. Hipoglucemia:
+   - Síntomas: sudoración, temblor, palpitaciones, confusión, irritabilidad
+   - Tratamiento: 15-20g de carbohidratos de acción rápida
+   - Re-evaluar en 15 minutos
 
 2. Cetoacidosis diabética:
-   - Glucosa > 250 mg/dL
-   - Cetonas positivas
-   - pH < 7.3
-   - Tratamiento: Insulina, fluidos, electrolitos
+   - Síntomas: náuseas, vómitos, dolor abdominal, respiración rápida, aliento con olor a fruta
+   - Requiere hospitalización inmediata
 
-COMPLICACIONES CRÓNICAS:
+3. Estado hiperosmolar hiperglucémico:
+   - Deshidratación severa, alteración del estado mental
+   - Requiere hospitalización
+
+COMPLICACIONES CRÓNICAS
 1. Microvasculares:
    - Retinopatía diabética
    - Nefropatía diabética
@@ -64,35 +39,85 @@ COMPLICACIONES CRÓNICAS:
 
 2. Macrovasculares:
    - Enfermedad cardiovascular
+   - Enfermedad cerebrovascular
    - Enfermedad arterial periférica
-   - Accidente cerebrovascular
 
-SEGUIMIENTO:
-- HbA1c cada 3 meses
-- Función renal anual
-- Examen oftalmológico anual
-- Examen de pies cada visita
-- Perfil lipídico anual
-- Presión arterial en cada visita
+TRATAMIENTO FARMACOLÓGICO
 
-MONITOREO GLUCÉMICO:
-- Automonitoreo glucémico
-- Objetivo: 4-6 mediciones/día
-- Registro de resultados
-- Ajuste de tratamiento según patrones
+Primera línea - Metformina:
+- Mecanismo: reduce la producción hepática de glucosa y mejora la sensibilidad a la insulina
+- Dosis inicial: 500mg 1-2 veces al día
+- Dosis máxima: 2000mg/día
+- Efectos secundarios: náuseas, diarrea, sabor metálico
+- Contraindicaciones: insuficiencia renal severa, acidosis láctica, insuficiencia hepática
 
-EDUCACIÓN DEL PACIENTE:
-- Reconocimiento de síntomas
-- Técnica de inyección de insulina
-- Manejo de hipoglucemia
-- Cuidado de pies
-- Plan de alimentación
-- Actividad física segura
+Segunda línea - Sulfonilureas:
+- Glibenclamida, gliclazida, glimepirida
+- Mecanismo: estimulan la secreción de insulina
+- Efectos secundarios: hipoglucemia, aumento de peso
 
-CRITERIOS DE REFERENCIA:
-- Endocrinólogo si:
-  - HbA1c > 9% a pesar de tratamiento
-  - Múltiples hipoglucemias
-  - Complicaciones microvasculares
-  - Embarazo
-  - Enfermedad renal
+Tercera línea - Otros medicamentos:
+- Inhibidores de DPP-4 (sitagliptina, vildagliptina)
+- Agonistas de GLP-1 (liraglutida, semaglutida)
+- Inhibidores de SGLT2 (empagliflozina, dapagliflozina)
+- Tiazolidinedionas (pioglitazona)
+
+MONITOREO
+- Automonitoreo de glucosa: 2-4 veces al día inicialmente
+- Hemoglobina glicosilada: cada 3 meses
+- Objetivo de HbA1c: <7% (individualizar según paciente)
+- Presión arterial: <130/80 mmHg
+- Colesterol LDL: <100 mg/dL
+
+RECOMENDACIONES DIETÉTICAS
+- Carbohidratos: 45-60% del total calórico
+- Proteínas: 15-20% del total calórico
+- Grasas: 25-35% del total calórico
+- Evitar azúcares simples y refinados
+- Preferir carbohidratos complejos con fibra
+- Control de porciones y horarios regulares
+
+EJERCICIO FÍSICO
+- Mínimo 150 minutos de actividad aeróbica moderada por semana
+- Ejercicios de resistencia 2-3 veces por semana
+- Caminar, nadar, ciclismo son recomendables
+- Monitorear glucosa antes y después del ejercicio
+
+EDUCACIÓN DEL PACIENTE
+- Automonitoreo de glucosa
+- Reconocimiento de síntomas de hipoglucemia
+- Técnica de inyección de insulina (si aplica)
+- Cuidado de los pies
+- Manejo de situaciones especiales (enfermedad, viajes)
+
+SEGUIMIENTO
+- Consulta médica cada 3 meses
+- Evaluación oftalmológica anual
+- Evaluación de función renal cada 6-12 meses
+- Evaluación cardiovascular según factores de riesgo
+- Evaluación de neuropatía y vasculopatía periférica
+
+FACTORES DE RIESGO
+- Edad >45 años
+- Obesidad (IMC >30)
+- Antecedentes familiares de diabetes
+- Sedentarismo
+- Hipertensión arterial
+- Dislipidemia
+- Síndrome de ovario poliquístico
+- Diabetes gestacional previa
+
+PREVENCIÓN
+- Mantener peso corporal saludable
+- Actividad física regular
+- Dieta balanceada
+- Control de presión arterial y colesterol
+- Evitar tabaco y alcohol excesivo
+
+OBJETIVOS DE CONTROL
+- HbA1c <7% (individualizar)
+- Glucosa en ayunas: 80-130 mg/dL
+- Glucosa postprandial: <180 mg/dL
+- Presión arterial <130/80 mmHg
+- Colesterol LDL <100 mg/dL
+- Triglicéridos <150 mg/dL

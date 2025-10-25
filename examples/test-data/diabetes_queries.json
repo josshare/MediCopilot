@@ -1,0 +1,150 @@
+{
+  "diabetes_queries": [
+    {
+      "category": "diagnostico",
+      "question": "¿Cuáles son los criterios diagnósticos para diabetes tipo 2?",
+      "max_results": 5
+    },
+    {
+      "category": "sintomas",
+      "question": "¿Qué síntomas presenta un paciente con diabetes tipo 2?",
+      "max_results": 4
+    },
+    {
+      "category": "complicaciones",
+      "question": "¿Cuáles son las complicaciones agudas de la diabetes?",
+      "max_results": 5
+    },
+    {
+      "category": "complicaciones",
+      "question": "¿Qué complicaciones crónicas puede desarrollar un paciente diabético?",
+      "max_results": 6
+    },
+    {
+      "category": "tratamiento",
+      "question": "¿Cuál es el tratamiento farmacológico de primera línea para diabetes tipo 2?",
+      "max_results": 5
+    },
+    {
+      "category": "medicamentos",
+      "question": "¿Cómo funciona la metformina en el tratamiento de la diabetes?",
+      "max_results": 4
+    },
+    {
+      "category": "medicamentos",
+      "question": "¿Cuáles son los efectos secundarios de la metformina?",
+      "max_results": 5
+    },
+    {
+      "category": "medicamentos",
+      "question": "¿Cuándo está contraindicada la metformina?",
+      "max_results": 4
+    },
+    {
+      "category": "medicamentos",
+      "question": "¿Qué otros medicamentos se usan para tratar la diabetes tipo 2?",
+      "max_results": 6
+    },
+    {
+      "category": "monitoreo",
+      "question": "¿Con qué frecuencia debe medirse la glucosa un paciente diabético?",
+      "max_results": 4
+    },
+    {
+      "category": "monitoreo",
+      "question": "¿Cuáles son los valores objetivo de hemoglobina glicosilada en diabetes?",
+      "max_results": 3
+    },
+    {
+      "category": "dieta",
+      "question": "¿Qué recomendaciones dietéticas debe seguir un paciente diabético?",
+      "max_results": 5
+    },
+    {
+      "category": "dieta",
+      "question": "¿Qué alimentos debe evitar un paciente con diabetes?",
+      "max_results": 4
+    },
+    {
+      "category": "ejercicio",
+      "question": "¿Qué tipo de ejercicio es recomendable para pacientes diabéticos?",
+      "max_results": 4
+    },
+    {
+      "category": "emergencias",
+      "question": "¿Cómo se maneja una crisis de hipoglucemia?",
+      "max_results": 5
+    },
+    {
+      "category": "emergencias",
+      "question": "¿Cuáles son los signos de cetoacidosis diabética?",
+      "max_results": 4
+    },
+    {
+      "category": "prevencion",
+      "question": "¿Cómo se puede prevenir la diabetes tipo 2?",
+      "max_results": 5
+    },
+    {
+      "category": "factores_riesgo",
+      "question": "¿Cuáles son los principales factores de riesgo para diabetes tipo 2?",
+      "max_results": 5
+    },
+    {
+      "category": "seguimiento",
+      "question": "¿Con qué frecuencia debe acudir a consulta un paciente diabético?",
+      "max_results": 3
+    },
+    {
+      "category": "educacion",
+      "question": "¿Qué debe saber un paciente diabético sobre el autocuidado?",
+      "max_results": 6
+    }
+  ],
+  "test_scenarios": [
+    {
+      "name": "Consulta básica sobre síntomas",
+      "query": "¿Qué síntomas presenta un paciente con diabetes tipo 2?",
+      "expected_sources": ["diabetes_tipo2_manejo.txt"],
+      "max_results": 4
+    },
+    {
+      "name": "Consulta sobre medicamentos",
+      "query": "¿Cómo funciona la metformina en el tratamiento de la diabetes?",
+      "expected_sources": ["diabetes_tipo2_manejo.txt"],
+      "max_results": 4
+    },
+    {
+      "name": "Consulta sobre complicaciones",
+      "query": "¿Cuáles son las complicaciones crónicas de la diabetes?",
+      "expected_sources": ["diabetes_tipo2_manejo.txt"],
+      "max_results": 6
+    },
+    {
+      "name": "Consulta sobre emergencias",
+      "query": "¿Cómo se maneja una crisis de hipoglucemia?",
+      "expected_sources": ["diabetes_tipo2_manejo.txt"],
+      "max_results": 5
+    }
+  ],
+  "performance_tests": [
+    {
+      "name": "Consulta simple sobre diabetes",
+      "query": "¿Qué es la diabetes tipo 2?",
+      "max_results": 3,
+      "expected_response_time": 5
+    },
+    {
+      "name": "Consulta compleja sobre tratamiento",
+      "query": "¿Cuál es el protocolo completo de manejo de diabetes tipo 2 en pacientes con insuficiencia renal?",
+      "max_results": 8,
+      "expected_response_time": 12
+    },
+    {
+      "name": "Consulta sobre múltiples aspectos",
+      "query": "¿Cómo se debe manejar la diabetes tipo 2 considerando medicamentos, dieta, ejercicio y monitoreo?",
+      "max_results": 10,
+      "expected_response_time": 15
+    }
+  ]
+}
